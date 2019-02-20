@@ -1,2 +1,1 @@
-# AISamples
-AI is an evolving field, it is best to think independently on how to use this emerging technology instead of learning it in a class room setting.
+For users of Visual Studio and C# coding environment - download all files to your PC. Build project. Make sure the data file HistoricalQuotes_AAPL.txt is in your \debug or \release folder. The data file needs to be in the same location as the exe.
